@@ -1,0 +1,33 @@
+h1, h2, h3, nav, footer {
+ font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+
+h1#title {
+	background-color: #9FAAB0;
+	padding: 15px;
+	padding-left: 150px;
+	
+}
+
+div.sidebar {
+	position:fixed;
+	top:100px;
+}
+
+div#sidebarBackground{
+	position:fixed;
+	top:22px;
+	left:8px;
+}
+
+div#sidebarBackground{
+	background-color: #9FAAB0;
+}
+
+div#mainSection {
+	padding-left:150px;
+}
+
+.centre {
+	text-align: center;
+}
